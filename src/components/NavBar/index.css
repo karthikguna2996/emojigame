@@ -1,0 +1,8 @@
+.navabr {
+  display: flex;
+  justify-content: space-between;
+  background-color: #9796f0;
+}
+.navitem {
+  display: flex;
+}
